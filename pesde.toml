@@ -1,4 +1,4 @@
-name = "story_bakery/value_by_priority"
+name = "storybakery/value_by_priority"
 version = "0.1.0"
 license = "MIT"
 includes = [
